@@ -7,8 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>this is mai n page</h1>
+<h1>this is main page</h1>
 <p>going to deploy this page on server </p>
+<p>after adding java project</p>
 <a href="about.jsp">About page</a>
 
 </body>
